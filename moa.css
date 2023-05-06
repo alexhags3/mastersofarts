@@ -1,0 +1,70 @@
+body {
+    font-family: 'Barlow', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    background-color: rgb(167, 203, 218);
+  }
+
+  .bar {
+    padding-top: 1rem;
+    background-color: rgb(5, 82, 114);
+    display: flex;
+    flex-direction: column;
+      }
+  
+  .bar p {
+    left: 25rem;
+    display: inline-block;
+  }
+
+  .bar li {
+    color: rgb(202, 233, 91);
+    display: inline-block;
+    padding: 0.8rem 0.8rem;
+  }
+  
+
+  .intro {
+    height: 30rem;
+    padding-top: 1rem;
+    text-align: center;
+    background-image: url("C:/Users/chatz/OneDrive/Desktop/339108966_250118544145332_3950841555089306079_n.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    opacity: 0.8;
+  }
+
+  .photo-container {
+    text-align: center;
+  }
+
+  .photos img {
+    max-height: 12.5rem;
+    padding: 0.75rem 0.5rem;
+    margin: auto;
+    display: inline-block;
+
+  }
+
+  #events h1 {
+    color:rgba(28, 20, 20, 0.518);
+    text-align: center;
+  }
+
+  #events img {
+    max-height: 37.5rem;
+    display: block;
+    width: 50rem;
+    margin:auto;
+  }
+
+  .testimonial {
+    background-color: aqua;
+    text-align: center;
+  }
+
+  #about {
+    color: rgb(241, 241, 240);
+    text-align: center;
+  }
